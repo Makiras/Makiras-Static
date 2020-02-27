@@ -1,4 +1,4 @@
-@import url(//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css);
+@import url(//cdn.jsdelivr.net/npm/font-awesome@4.4.0/css/font-awesome.min.css);
 /**
  * Owl Carousel v2.3.4
  * Copyright 2013-2018 David Deutsch
@@ -365,7 +365,6 @@ post content
 /*--------------------------------------------------------------
   widget_recent_entries  style
 --------------------------------------------------------------*/
-.widget_recent_entries ul{}
 .widget_recent_entries ul li{margin-bottom:.5rem;list-style-type:circle}
 .widget_recent_entries ul li a{display:block;font-size:.875rem}
 .widget_recent_entries ul li span{color:#8a92a9;font-size:.75rem}
@@ -574,7 +573,6 @@ bg style
 .new-sub li{width:100%;background:#fff;float:none;box-sizing:border-box;-webkit-box-sizing:border-box;border-top:1px solid #f2f2f2}
 .new-sub li a{display:block;height:50px;line-height:50px;text-align:left;background:#fff;color:#333;border:none;text-align:center;font-size:16px}
 .sanjiao{position:absolute;bottom:5px;right:5px;width:0;height:0;border:5px solid transparent;border-right:5px solid #a7a7a7;border-bottom:5px solid #a7a7a7;opacity:.5}
-.bt-name{}
 .bt-name a{display:block;font-size:.8rem!important;color:#000}
 .new-sub ul{margin:0;padding:0;}
 .new-sub ul li{list-style: none;}
@@ -751,8 +749,6 @@ table td:nth-child(1){white-space:nowrap}
 .btn-bilibili:hover{background-color:#fb7299;border-color:#fb7299;color:#fff}
 .btn-ins:hover{background-color:#ed4956;border-color:#ed4956;color:#fff}
 .btn-tumblr:hover{background-color:#36465d;border-color:#36465d;color:#fff}
-.btn-plus-nice{}
-
 .qr_pay{height:60vh;padding:20px 0;}
 .qr_pay .qr_pay_wechatpay{width: 70%;height:auto;margin:0 auto!important;}
 .qr_pay .qr_pay_alipay{width: 70%;height:auto;margin:0 auto!important;}
